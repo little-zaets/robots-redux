@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robots-redux/static/css/main.cb48298d.chunk.css",
+    "main.js": "/robots-redux/static/js/main.4c5d1184.chunk.js",
+    "main.js.map": "/robots-redux/static/js/main.4c5d1184.chunk.js.map",
+    "runtime-main.js": "/robots-redux/static/js/runtime-main.c8938129.js",
+    "runtime-main.js.map": "/robots-redux/static/js/runtime-main.c8938129.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robots-redux/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9ed7cf25.chunk.js": "/robots-redux/static/js/2.9ed7cf25.chunk.js",
+    "static/js/2.9ed7cf25.chunk.js.map": "/robots-redux/static/js/2.9ed7cf25.chunk.js.map",
+    "index.html": "/robots-redux/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robots-redux/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.cb48298d.chunk.css.map": "/robots-redux/static/css/main.cb48298d.chunk.css.map",
+    "static/js/2.9ed7cf25.chunk.js.LICENSE.txt": "/robots-redux/static/js/2.9ed7cf25.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robots-redux/static/media/SEGA.8a619f32.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8938129.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9ed7cf25.chunk.js",
+    "static/css/main.cb48298d.chunk.css",
+    "static/js/main.4c5d1184.chunk.js"
+  ]
+}
